@@ -1,0 +1,95 @@
+body {
+    background-color: #fcfcea;
+    color: #000000; 
+    font-family: Arial;
+    margin: 0;
+    padding: 0px;
+   
+}
+.white {
+    padding: 15px;  
+    background-color: #ffffff;
+    border: 2px solid  #b71236;
+
+}
+.Gray {
+    padding: 40px; 
+    background-color:rgb(216, 211, 211) ; 
+}
+.yellow {
+    padding: 0; 
+    background-color:  #f8f8cd; 
+}
+header {
+    background-color: #b71236;
+    color: #fff;  
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 15px;
+}
+p{
+    margin: 15px;
+}
+#container {
+ margin: 1px auto;
+ padding: 5PX ;
+ width: 100%;
+}
+#boite{
+   width: 350px;
+   height: 330px;
+   background-color: #ffffff;
+   padding: 10PX;
+   border: 2px solid black;
+   margin-left: 30%;
+}
+#boite img{
+    width: 100%;
+    height: auto;
+    margin-bottom: 5px;
+}
+
+.end{
+    max-width: max-content;
+    background-color: #ffffff;
+    color: #030303;  
+    padding: 10px;
+    border-top: #b71236 ;
+    margin: auto;
+    border-left:50px solid #c7ccbd ;
+    border-right:50px solid #c7ccbd ;
+    border-top:5px solid #c7ccbd  ;
+    text-align: right;
+    width: 99,5%;
+    bottom: 0;
+}
+.grii{
+    color:gray;
+}
+li{
+    margin-left: 60px;
+}
+ h2{
+    margin-left: 20px;
+}
+ h5{
+    margin-left: 60px;
+
+ }
+#boite2{
+    width: 400px;
+    height: 380px;
+    background-color: #ffffff;
+    padding: 20px;
+    border: 2px solid black;
+    margin-left: 25%;
+ }
+ #boite2 img{
+    width: 100%;
+    height: auto;
+    margin-bottom: 2px;
+}
+
